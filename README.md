@@ -33,4 +33,29 @@ Utilized the Networkwalks Hash Calculator to extract the $pdf$ hash and submitte
 Loaded extracted hashes into the Johnny GUI, selected a wordlist, and executed attacks via a point-and-click interface to verify consistency.
 ## ⚠️ Ethics & Disclaimer
 All activities were performed strictly within an authorized training environment using provided lab files and simulated targets. The techniques and tools documented here are intended for educational and defensive security purposes only. Unauthorized access to systems, networks, or data is illegal and unethical.
+# 👤 About the Author
+
+**Pavithra.P** is a cybersecurity enthusiast and intern at Networkwalks Academy (Batch B083). With a learning the  network security, penetration testing, and OSINT reconnaissance, Pavithra is passionate about understanding attacker methodologies to build better defenses.
+
+**Areas of Interest:**
+- 🔍 Offensive Security & Penetration Testing
+- 🌐password cracking
+- 🛡️ Network Security & Defense
+- 📊 Security Reporting & Documentation
+
+**Certifications Pursuing:**
+- Networkwalks Cybersecurity Internship
+- Ethical Hacking
+**Connect:**
+ - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavithra-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavithra-p-202131427/)
+[![GitHub](https://img.shields.io/badge/GitHub-Pavithra-black?logo=github&logoColor=white)](https://github.com/pavithrap99)
+ ## 🙏 Acknowledgments
+
+- **Networkwalks Academy** – For creating this hands-on internship program
+- **Waqas Karim (CCIE)** – For technical mentorship and industry perspective
+- **Batch B083 Cohort** – For collaborative troubleshooting and shared insight
+- 
+**© 2026 Pavithra.p | Networkwalks Cybersecurity Internship | Batch B083**
+
+
 
