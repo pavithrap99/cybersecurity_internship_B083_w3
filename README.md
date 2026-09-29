@@ -23,3 +23,14 @@ NetworkWalks Hash Calculator is used to generate crackable hashes from password-
 |JTR(terminal)|My locked PDF3.pdf|1qaz2WSX|1 second|
 |NW Tools (online)|All 3 pdfs|confirmed matches|Instant|
 |Johnny(GUI)|All 3 pdfs|confirmed matches|Instant|
+## Methodology & Execution
+### 1 Offline Password Cracking (JTR)
+Extracted PDF hashes using John The Ripper .
+### 2. Browser-Based Cracking (NW Tools)
+Utilized the Networkwalks Hash Calculator to extract the $pdf$ hash and submitted it to the Password Cracker for online dictionary analysis.
+
+### 3. GUI Auditing (Johnny)
+Loaded extracted hashes into the Johnny GUI, selected a wordlist, and executed attacks via a point-and-click interface to verify consistency.
+## ⚠️ Ethics & Disclaimer
+All activities were performed strictly within an authorized training environment using provided lab files and simulated targets. The techniques and tools documented here are intended for educational and defensive security purposes only. Unauthorized access to systems, networks, or data is illegal and unethical.
+
